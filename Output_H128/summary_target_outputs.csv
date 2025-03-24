@@ -1,0 +1,2 @@
+lon,lat,forcing_csv,strain_csv,rho_csv,flow_speed,flow_dir
+41.34,-69.24,/media/junsaito/E4308E2C308E05B0/JS_model/Output_H128_2016_update/Force/cfm_forcing_41.340_-69.240.csv,/media/junsaito/E4308E2C308E05B0/JS_model/Output_H128_2016_update/Strain/cfm_strain_inputs_41.340_-69.240.csv,/media/junsaito/E4308E2C308E05B0/JS_model/Output_H128_2016_update/Rho/cfm_rho_inputs_41.340_-69.240.csv,2.6516517403486692,127.32341003417969

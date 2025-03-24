@@ -1,0 +1,30 @@
+{
+  "target_coords_csv": "csv/target_coords.csv",
+  "rema_dem_file": "Tiff/rema_mosaic_500m_v2.0_dem_wgs84_shirase.tif",
+  "era5_base_dir": "ERA5",
+  "modis_wgs84_file": "Tiff/MODIS_Albedo_2000-2024_avg_wgs84.tif",
+  "output_dir": "Output_shirase",
+  "time_interval_s": 3600,
+  "z0_station": 0,
+  "kappa_value": 0.35,
+  "station_data_file": "csv/Showa_AT_hourly_1980_2024.csv",
+  "station_data2_file": "csv/Showa_DT_hourly_1980_2024.csv",
+  "station_elev": 29.0,
+  "vx_tif_path": "Tiff/measure_velocity_450m_vx_shirase_lang_new.tif",
+  "vy_tif_path": "Tiff/measure_velocity_450m_vy_shirase_lang_new.tif",
+  "vx_error_tif_path": "Tiff/measure_velocity_450m_errvx_shirase_lang_new.tif",
+  "vy_error_tif_path": "Tiff/measure_velocity_450m_errvy_shirase_lang_new.tif",
+  "showa_csv": "/media/junsaito/E4308E2C308E05B0/JS_model/csv/Showa_P_WS_LW_SW_hourly_1980_2024.csv",
+  "model_parameters": {
+    "time_interval_s": 3600,
+    "z0_station": 0.1,
+    "kappa_value": 0.35,
+    "station_elev": 100
+  },
+  "calibration": {
+    "wind_calibration_method": "linear",
+    "pressure_calibration_method": "linear",
+    "rh_calibration_method": "linear"
+  }
+}
+
